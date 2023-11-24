@@ -30,6 +30,8 @@ Alpha Values = 0.05 (P value)
 ## Building a Model
 
 ![Screenshot from 2023-11-25 00-31-42](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/69837e27-77e2-4a66-ab42-8cb8f2aaf93c)
-
-![Screenshot from 2023-11-25 00-38-16](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/b9bd62db-4e91-4a63-9c2a-5185ee3b1657)
 ![Screenshot from 2023-11-25 00-36-33](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/32823ecc-2d54-4430-ad23-3622e1ca334c)
+![Screenshot from 2023-11-25 00-38-16](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/b9bd62db-4e91-4a63-9c2a-5185ee3b1657)
+![Screenshot from 2023-11-25 00-49-37](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/1d0fdfba-1090-41bc-b0db-d3304fd94a31)
+![Screenshot from 2023-11-25 00-49-06](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/1ef68a6b-af62-4312-9657-f96c1ddef38a)
+![Screenshot from 2023-11-25 00-48-03](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/56787e7d-e8cf-45fc-914d-72827d7156ca)
