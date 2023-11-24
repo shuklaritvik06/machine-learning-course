@@ -15,5 +15,14 @@ y = b0+b1x1+b2x2+b3D3
 D3= Dummy Variable
 ```
 
-## P-Value
+## Null Hypothesis
 
+Null Hypothesis represents a default assumption. Researchers and data scientists typically use the null hypothesis as a starting point for statistical analysis. Suppose we are tossing a coin, and we have two case that the Coin can be fair or not, So the null hypothesis would be to take the coin as fair in the starting of analysis
+
+ ## P-Value
+
+It represents the probability of obtaining the observed results if the null hypothesis is true. A small p-value (typically less than a chosen significance level, often 0.05) indicates that you can reject the null hypothesis in favor of the alternative hypothesis.
+
+```
+Alpha Values = 0.05 (P value)
+```
