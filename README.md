@@ -1,4 +1,4 @@
-# machine-learning-course
+# ML
 
 ## Assumptions
 ![Screenshot from 2023-11-24 23-04-37](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/b4e2d354-5b88-46a3-b17e-1161fa519db5)
@@ -26,3 +26,10 @@ It represents the probability of obtaining the observed results if the null hypo
 ```
 Alpha Values = 0.05 (P value)
 ```
+
+## Building a Model
+
+![Screenshot from 2023-11-25 00-31-42](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/69837e27-77e2-4a66-ab42-8cb8f2aaf93c)
+
+![Screenshot from 2023-11-25 00-38-16](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/b9bd62db-4e91-4a63-9c2a-5185ee3b1657)
+![Screenshot from 2023-11-25 00-36-33](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/32823ecc-2d54-4430-ad23-3622e1ca334c)
