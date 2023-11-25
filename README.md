@@ -48,3 +48,11 @@ Alpha Values = 0.05 (P value)
 
 ![Screenshot from 2023-11-25 17-51-13](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/90ecc884-a937-4807-9836-ffe13b79e869)
 
+## R Squared
+![Screenshot from 2023-11-25 21-09-15](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/b55b3f28-9587-40e8-bed6-98d8456416a5)
+
+## Adjusted R Squared
+
+![Screenshot from 2023-11-25 21-13-22](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/cec1f84a-b624-48cc-aeea-f66f2e6ab99f)
+
+
