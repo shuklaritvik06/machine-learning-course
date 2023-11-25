@@ -36,8 +36,15 @@ Alpha Values = 0.05 (P value)
 ![Screenshot from 2023-11-25 00-49-06](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/1ef68a6b-af62-4312-9657-f96c1ddef38a)
 ![Screenshot from 2023-11-25 00-48-03](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/56787e7d-e8cf-45fc-914d-72827d7156ca)
 
-
 ## SVR
 ![Screenshot from 2023-11-25 04-44-07](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/46fcb919-e7d5-4cd8-ad50-bba4065d9302)
 
+
+## Decision Tree 
+
+![Screenshot from 2023-11-25 17-51-13](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/1b34076d-3084-4ac2-b7ad-1d97535c8cbb)
+
+## Random Forest
+
+![Screenshot from 2023-11-25 17-51-13](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/90ecc884-a937-4807-9836-ffe13b79e869)
 
