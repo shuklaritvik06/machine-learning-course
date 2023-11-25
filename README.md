@@ -42,7 +42,7 @@ Alpha Values = 0.05 (P value)
 
 ## Decision Tree 
 
-![Screenshot from 2023-11-25 17-51-13](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/1b34076d-3084-4ac2-b7ad-1d97535c8cbb)
+![Screenshot from 2023-11-25 17-03-54](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/c0baa31b-7402-4f00-b5e8-3b95d2164068)
 
 ## Random Forest
 
