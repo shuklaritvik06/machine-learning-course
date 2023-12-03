@@ -72,6 +72,7 @@ The loss increases as the predicted probability diverges from the actual label.
 
 ## R Squared
 ![Screenshot from 2023-11-25 21-09-15](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/b55b3f28-9587-40e8-bed6-98d8456416a5)
+![Screenshot from 2023-12-03 18-04-38](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/a9dcdf28-e2b8-4106-bccd-0bce323bc96f)
 
 ## Adjusted R Squared
 
@@ -90,4 +91,9 @@ The loss increases as the predicted probability diverges from the actual label.
 ## Kernel SVM
 
 ![Screenshot from 2023-12-03 16-27-04](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/9e8c30a2-1449-4794-a443-86ad6b0e473c)
+![Screenshot from 2023-12-03 18-03-54](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/de4f618f-67b9-4440-b3a8-4263ca1ca6ab)
+![Screenshot from 2023-12-03 18-04-15](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/0754e55b-7273-4100-80fa-b5d5aefc3b4e)
+![Screenshot from 2023-12-03 18-07-04](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/d55db904-231f-47d9-b7fe-3d0cd0f844ed)
+![Screenshot from 2023-12-03 18-09-38](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/6c10bdec-a0d0-4c6c-9073-2b84125c9c3e)
+![Screenshot from 2023-12-03 18-12-39](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/b5b615ab-9982-4754-ab14-8fd11dcec7a7)
 
