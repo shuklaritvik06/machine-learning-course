@@ -96,4 +96,6 @@ The loss increases as the predicted probability diverges from the actual label.
 ![Screenshot from 2023-12-03 18-07-04](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/d55db904-231f-47d9-b7fe-3d0cd0f844ed)
 ![Screenshot from 2023-12-03 18-09-38](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/6c10bdec-a0d0-4c6c-9073-2b84125c9c3e)
 ![Screenshot from 2023-12-03 18-12-39](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/b5b615ab-9982-4754-ab14-8fd11dcec7a7)
+![Screenshot from 2023-12-03 18-23-00](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/cd6a2003-38c0-4412-a0df-7673e90ea263)
+
 
