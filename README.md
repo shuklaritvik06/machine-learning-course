@@ -86,3 +86,8 @@ The loss increases as the predicted probability diverges from the actual label.
 ![Screenshot from 2023-12-03 15-59-45](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/9283716e-a73b-4e9d-9f86-79be2517c0a4)
 ![Screenshot from 2023-12-03 16-02-02](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/0f7982fe-4a35-401a-bd99-4ed1a4349216)
 ![Screenshot from 2023-12-03 16-02-25](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/5305b725-b58a-4650-8007-d26c479c104f)
+
+## Kernel SVM
+
+![Screenshot from 2023-12-03 16-27-04](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/9e8c30a2-1449-4794-a443-86ad6b0e473c)
+
