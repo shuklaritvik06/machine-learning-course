@@ -46,6 +46,8 @@ Alpha Values = 0.05 (P value)
 
 ## Random Forest
 
+Random forests or random decision forests is an ensemble learning method which combines the output of multiple decision trees to reach a result
+
 ![Screenshot from 2023-11-25 17-51-13](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/90ecc884-a937-4807-9836-ffe13b79e869)
 
 ## R Squared
