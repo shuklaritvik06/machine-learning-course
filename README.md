@@ -48,6 +48,26 @@ Alpha Values = 0.05 (P value)
 
 Random forests or random decision forests is an ensemble learning method which combines the output of multiple decision trees to reach a result
 
+- Gini impurity ('gini'):
+
+Gini impurity is a measure of how often a randomly chosen element would be incorrectly classified. It reaches its minimum (zero) when all elements of a node are pure (belong to the same class).
+The Gini impurity for a node is calculated as the sum of the squared probabilities of each class being chosen times the probability of a mistake in categorizing that class.
+
+- Entropy ('entropy'):
+
+Entropy is a measure of impurity in information theory. In the context of decision trees, it quantifies the amount of information or disorder at a node. A node with a low entropy means it is pure (all elements belong to the same class).
+The entropy for a node is calculated as the sum of the probability of each class times the log base 2 of the probability.
+
+- Classification error ('class_weight'):
+
+This criterion measures the classification error, which is the fraction of training samples that are misclassified.
+It is not commonly used as it is less sensitive to changes in the class probabilities.
+
+- Logarithmic loss ('log' or 'log_loss'):
+
+Logarithmic loss measures the performance of a classification model where the prediction is a probability value between 0 and 1.
+The loss increases as the predicted probability diverges from the actual label.
+
 ![Screenshot from 2023-11-25 17-51-13](https://github.com/shuklaritvik06/machine-learning-course/assets/72812470/90ecc884-a937-4807-9836-ffe13b79e869)
 
 ## R Squared
